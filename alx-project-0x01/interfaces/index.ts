@@ -4,6 +4,11 @@ export interface PostProps {
   title: string;
   body: string;
 }
+export interface UserProps { 
+  "username: string;",
+  "street: string;", 
+  "catchPhrase: string;
+}
 
 const user: PostProps ={
   "id": 1,
