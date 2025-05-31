@@ -32,4 +32,6 @@ const UsersPage = () => {
   );
 };
 
+export default Users;
+
 export default UsersPage;
